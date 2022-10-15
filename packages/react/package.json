@@ -12,7 +12,7 @@
   "types": "./dist/index.d.ts",
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@jeje-ui/eslint-config": "*",
     "@jeje-ui/tokens": "*",
