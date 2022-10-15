@@ -1,0 +1,2 @@
+import{A as t}from"./index.481470c1.js";import"./index.5184cfdf.js";import"./iframe.5e3ff7a0.js";import"./index.7abd74bc.js";import"./jsx-runtime.1a9c8025.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/jeffersonbraster.png",alt:"Jefferson Brand\xE3o"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,c as WithFallback,n as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.049d5c34.js.map
